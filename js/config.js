@@ -87,7 +87,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "plCAha0nsb0", name: "Two Steps From Hell - Star Sky"}
+	{youtube: "pICAha0nsb0", name: "Two Steps From Hell - Star Sky"}
 ];
 
 /*Random music order?*/
@@ -102,7 +102,15 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Designed by UDT|SEAL"
+"Designed by UDT|SEAL",
+"Republic of korea. Army에 오신것을 환영합니다!",
+"우리 부대는 창설 1주년째입니다.",
+"저희 군그룹은 분대플레이 입니다.",
+"Alpha Bravo Delta",
+"충성! 접속중이십니까?",
+"저희 그룹은 태도,행동,말투,성격.실력 관찰기록 관찰 담당 기관들이 있습니다.",
+"꿈이 군인 이시라구요? 그럼당장 접속하시지말입니다!",
+"경고! 각 담당기관 교관들이 당신을 지켜보고있습니다."
 ];
 
 /*Random message order?*/
