@@ -87,7 +87,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "pICAha0nsb0", name: "Two Steps From Hell - Star Sky"}
+        {youtube: "pICAha0nsb0", name: "Two Steps From Hell - Star Sky"}
 ];
 
 /*Random music order?*/
