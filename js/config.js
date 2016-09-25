@@ -87,7 +87,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "pICAha0nsb0", name: "Two Steps From Hell - Star Sky "},
+	{youtube: "44Rkp2OIJzo", name: "Miles Malone - This Is Our Time "},
+	{youtube: "ST8O-AeY3Uo", name: "AKMU - RE-BYE"},
+	{youtube: "tDeZZ0Dz4Y4", name: "K-Pop Culture 2015 / Mix "}
 ];
 
 /*Random music order?*/
